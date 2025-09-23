@@ -2,7 +2,7 @@
 
 ## 📫 Contacts  
 - 📧 Email: [ahmedmohamedsami203@gmail.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/elashry10](https://linkedin.com/in/your-link)  
+- 💼 LinkedIn: [linkedin.com/in/www.linkedin.com/in/elashry10](https://linkedin.com/in/your-link)  
 - 🌐 Portfolio: [ahmedelashry.com](https://yourwebsite.com) 
 
 
